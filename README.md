@@ -15,4 +15,4 @@ A simple web-based To-Do List application built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Description
-This project helped me understand DOM manipulation, event handling, and basic frontend logic using JavaScript.
+This project helped me understand DOM manipulation, event handling, and basic frontend logic using JavaScript
